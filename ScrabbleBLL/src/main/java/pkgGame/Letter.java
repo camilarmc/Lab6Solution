@@ -23,6 +23,9 @@ public class Letter {
 	{
 		
 		switch (chLetter) {
+		case ' ':
+			iScore = 0;
+			break;
 		case 'A','E','I','L','N','O','R','S','T','U':
 			iScore = 1;
 			break;

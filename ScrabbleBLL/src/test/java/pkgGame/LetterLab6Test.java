@@ -27,6 +27,7 @@ public class LetterLab6Test {
 		int iFive = 5;
 		int iEight = 8;
 		int iTen = 10;
+		
 		assertEquals(iOne,new Letter('A').getiScore());
 		assertEquals(iThree,new Letter('B').getiScore());
 		assertEquals(iThree,new Letter('C').getiScore());
