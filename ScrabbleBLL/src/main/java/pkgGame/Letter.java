@@ -54,8 +54,6 @@ public class Letter {
 //		5 Points - K.
 //		8 Points - J and X.
 //		10 Points - Q and Z.
-		
-		//TODO: Set iScore based on the given letter.  A = 1, B = 3, etc
 	}
 	
 	
